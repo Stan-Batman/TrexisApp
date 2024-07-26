@@ -1,0 +1,14 @@
+c:\Users\HP\Trexis\bin\Debug\net8.0\Trexis.exe
+C:\Users\HP\Trexis\bin\Debug\net8.0\Trexis.deps.json
+C:\Users\HP\Trexis\bin\Debug\net8.0\Trexis.runtimeconfig.json
+c:\Users\HP\Trexis\bin\Debug\net8.0\Trexis.dll
+c:\Users\HP\Trexis\bin\Debug\net8.0\Trexis.pdb
+c:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.AssemblyInfoInputs.cache
+c:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.AssemblyInfo.cs
+c:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.csproj.CoreCompileInputs.cache
+c:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.dll
+c:\Users\HP\Trexis\obj\Debug\net8.0\refint\Trexis.dll
+c:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.pdb
+C:\Users\HP\Trexis\obj\Debug\net8.0\Trexis.genruntimeconfig.cache
+C:\Users\HP\Trexis\obj\Debug\net8.0\ref\Trexis.dll
